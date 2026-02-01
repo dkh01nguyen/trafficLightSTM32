@@ -334,9 +334,3 @@ Phase 4: PHASE_NS_RED_EW_YELLOW
 - Return to AUTO_NORM to resume normal operation
 
 ---
-
-## Revision History
-
-| Version | Date | Author | Description |
-|---------|------|--------|-------------|
-| 1.0 | Dec 2025 | System Designer | Initial FSM documentation |

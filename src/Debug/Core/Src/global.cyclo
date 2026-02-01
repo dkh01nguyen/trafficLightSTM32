@@ -1,0 +1,3 @@
+../Core/Src/global.c:35:6:global_init	1
+../Core/Src/global.c:55:6:save_durations_to_flash	1
+../Core/Src/global.c:63:6:load_durations_from_flash	1

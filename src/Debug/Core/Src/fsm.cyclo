@@ -1,0 +1,7 @@
+../Core/Src/fsm.c:22:6:fsm_init	1
+../Core/Src/fsm.c:30:16:check_balance	1
+../Core/Src/fsm.c:37:6:fsm_lcd_update	16
+../Core/Src/fsm.c:118:6:fsm_button_scan	34
+../Core/Src/fsm.c:267:6:fsm_countdown_update	11
+../Core/Src/fsm.c:321:6:fsm_flash_update	8
+../Core/Src/fsm.c:346:6:fsm_run	4

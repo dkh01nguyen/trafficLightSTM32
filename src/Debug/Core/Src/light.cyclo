@@ -1,0 +1,8 @@
+../Core/Src/light.c:26:6:light_init	1
+../Core/Src/light.c:37:6:light_set_ns	1
+../Core/Src/light.c:49:6:light_set_ew	1
+../Core/Src/light.c:61:6:light_set_both	1
+../Core/Src/light.c:69:6:light_off_all	1
+../Core/Src/light.c:78:6:light_toggle_ns	2
+../Core/Src/light.c:92:6:light_toggle_ew	2
+../Core/Src/light.c:106:6:light_toggle_both	3
